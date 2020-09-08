@@ -1,8 +1,7 @@
 # Pedometer
 
 <h2>Concept<br/>
-<h3>The idea to design a human sensing system that can detect the number steps moved.
-<h2> Android application to count number of steps whenever there is acceleration sensed in any particular axis using Kotlin Programming Language. The system uses the accelerometer installed in the mobile device to estimate the distance moved by counting the number of steps.
+<h3>The idea is to design a human sensing system that can detect the number steps moved. The end product is a simple android app that counts the number of steps as steps are moved when the device is held. The system uses the accelerometer installed in the mobile device to estimate the distance moved by counting the number of steps. The data measured by the accelerometer in the x, y and z-axis direction are used to determined if a step is been moved or not. Basics instructions sets from the andriod framewoks helps in the process.
  <br/>
  
 <p align="center">
