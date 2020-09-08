@@ -7,7 +7,7 @@
  
   <img width="450" src="./design/Testing system.jpeg">
   
-  <img width="450" src="./design/Experiment.mp4">
+  <video width="450" src="./design/Experiment.mp4">
   
   
   
