@@ -4,12 +4,16 @@
 <p align="center">
  <img width="300" src="./design/Starting.jpeg"></p>
  <br/>
-  
- <img width="300" src="./design/Results after Experimet.jpeg"><br />
+  <p align="center">
+ <img width="300" src="./design/Results after Experimet.jpeg"></p>
+ <br />
  
-  <img width="300" src="./design/Testing system.jpeg" ><br />
+ <p align="center">
+  <img width="300" src="./design/Testing system.jpeg" ></p>
+ <br />
   
-  <img width="452" src="./design/experiment.gif">
+  <p align="center">
+  <img width="452" src="./design/experiment.gif"></p>
   
   
   
