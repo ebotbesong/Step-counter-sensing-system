@@ -1,12 +1,15 @@
 # Pedometer
-Android application to count number of steps whenever there is acceleration sensed in any particular axis using Kotlin Programming Language.
+<h2> Android application to count number of steps whenever there is acceleration sensed in any particular axis using Kotlin Programming Language. The system uses the accelerometer installed in the mobile device to estimate the distance moved by counting the number of steps.
+ 
+ <img width="450" src="./design/Starting.jpeg">
+  
+ <img width="450" src="./design/Results after Experimet.jpeg">
+ 
+  <img width="450" src="./design/Testing system.jpeg">
+  
+  < width="452" src="./design/Experiment.mp4">
+  
+  
+  
 
-PEDOMETER 1     |  PEDOMETER 2 |  PEDOMETER 3 |
-:---------:|:----------:|:---------:
-![](https://github.com/AndroidCodility/Pedometer/blob/master/design/start.png?raw=true)  |  ![](https://github.com/AndroidCodility/Pedometer/blob/master/design/steps.png?raw=true) |  ![](https://github.com/AndroidCodility/Pedometer/blob/master/design/stop.png?raw=true) 
-
-# Play Video
-[![](https://github.com/AndroidCodility/Pedometer/blob/master/design/pedometer_video.png?raw=true)](https://youtu.be/PPmySCup1CU "Click here to watch")
-
-# Like Facebook Page
-[![](https://github.com/AndroidCodility/Barchart-Graph/blob/master/design/fb.png?raw=true)](https://www.facebook.com/androidcodility/ "Click here")
+ 
