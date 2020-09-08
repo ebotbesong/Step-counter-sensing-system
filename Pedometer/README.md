@@ -3,9 +3,9 @@
  
  <img width="450" src="./design/Starting.jpeg"><br />
   
- <img width="450" src="./design/Results after Experimet.jpeg">
+ <img width="450" src="./design/Results after Experimet.jpeg"><br />
  
-  <img width="450" src="./design/Testing system.jpeg" >
+  <img width="450" src="./design/Testing system.jpeg" ><br />
   
   <img width="452" src="./design/experiment.gif">
   
